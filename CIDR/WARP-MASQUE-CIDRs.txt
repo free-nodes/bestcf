@@ -1,0 +1,10 @@
+Cloudflare EDT 导航 | bestcf.tools12345.com
+162.159.198.0/24：MASQUE 官方默认主段
+162.159.197.0/24：Gateway 企业网关专属段
+162.159.192.0/24：WARP 核心 Anycast 大网段
+162.159.193.0/24：WARP 核心 Anycast 大网段
+162.159.195.0/24：WARP 核心 Anycast 大网段
+162.159.194.0/24：边缘容量溢出缓冲段
+162.159.196.0/24：边缘容量溢出缓冲段
+162.159.36.0/24：Teams 边缘安全审计鉴权段
+Cloudflare EDT 导航 | bestcf.tools12345.com
