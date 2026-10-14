@@ -1,3 +1,784 @@
-127.0.0.1:1234#CM优选 | 10-13 23:33 | bestcf.tools12345.com
+127.0.0.1:1234#CM优选 | 10-14 22:34 | bestcf.tools12345.com
 127.0.0.1:1234#CM优选 | CFnat | 127.0.0.1:1234
-127.0.0.1:1234#CM优选 | 分享免费优选网 bestcf.tools12345.com
+<!DOCTYPE html>:443#CM优选 | 土库曼斯坦 TM | <!DOCTYPE html>:443
+<html lang=:443#CM优选 | 老挝 LA | <html lang=:443
+zh-CN:443#CM优选 | 中国 CN | zh-CN:443
+>:443#CM优选 | > | >:443
+<head>:443#CM优选 | 安道尔 AD | <head>:443
+    <meta charset=:443#CM优选 | 瑞典 SE |     <meta charset=:443
+UTF-8:443#CM优选 | 法属南部领地 TF | UTF-8:443
+    <meta name=:443#CM优选 | 黑山 ME |     <meta name=:443
+viewport:443#CM优选 | 爱尔兰 IE | viewport:443
+ content=:443#CM优选 | 哥伦比亚 CO |  content=:443
+width=device-width:443#CM优选 | 泰国 TH | width=device-width:443
+ initial-scale=1.0:443#CM优选 | 印度 IN |  initial-scale=1.0:443
+description:443#CM优选 | 英属印度洋领地 IO | description:443
+CloudFlareä¼éååæ±æ» - æä¾ä¼è´¨çCloudFlare CDNèç¹ä¿¡æ¯:443#CM优选 | 老挝 LA | CloudFlareä¼éååæ±æ» - æä¾ä¼è´¨çCloudFlare CDNèç¹ä¿¡æ¯:443
+keywords:443#CM优选 | 肯尼亚 KE | keywords:443
+CloudFlare:443#CM优选 | 老挝 LA | CloudFlare:443
+ä¼éåå:443#CM优选 | 优选域名 | ä¼éåå:443
+CDN:443#CM优选 | 刚果民主共和国 CD | CDN:443
+ä¼éIP:443#CM优选 | 优选IP | ä¼éIP:443
+    <title>CloudFlareä¼éååæ±æ» - CFä¼éåå</title>:443#CM优选 | 老挝 LA |     <title>CloudFlareä¼éååæ±æ» - CFä¼éåå</title>:443
+    <link rel=:443#CM优选 | 印度 IN |     <link rel=:443
+preconnect:443#CM优选 | 波多黎各 PR | preconnect:443
+ href=:443#CM优选 | 克罗地亚 HR |  href=:443
+https://fonts.googleapis.com#CM优选 | 特立尼达多巴哥 TT | https://fonts.googleapis.com
+https://fonts.gstatic.com#CM优选 | 特立尼达多巴哥 TT | https://fonts.gstatic.com
+ crossorigin>:443#CM优选 | 印度 IN |  crossorigin>:443
+    <link:443#CM优选 | 印度 IN |     <link:443
+        href=:443#CM优选 | 克罗地亚 HR |         href=:443
+https://fonts.googleapis.com/css2#CM优选 | 特立尼达多巴哥 TT | https://fonts.googleapis.com/css2
+        rel=:443#CM优选 | 留尼汪 RE |         rel=:443
+stylesheet:443#CM优选 | 西班牙 ES | stylesheet:443
+style.css:443#CM优选 | style.css | style.css:443
+</head>:443#CM优选 | 安道尔 AD | </head>:443
+<body>:443#CM优选 | 玻利维亚 BO | <body>:443
+    <!-- è§è§éèç H1ï¼ä¿ä½ææ¡£å¤§çº²ä¸ SEO è¯­ä¹ï¼ç«ç¹æ è¯ç±ç²æ§å¯¼èªåçä½æ¿æ -->:443#CM优选 | 瑞典 SE |     <!-- è§è§éèç H1ï¼ä¿ä½ææ¡£å¤§çº²ä¸ SEO è¯­ä¹ï¼ç«ç¹æ è¯ç±ç²æ§å¯¼èªåçä½æ¿æ -->:443
+    <h1 class=:443#CM优选 | 老挝 LA |     <h1 class=:443
+sr-only:443#CM优选 | 荷兰 NL | sr-only:443
+>CloudFlare ä¼éååæ±æ» â æä¾ä¼è´¨ç CloudFlare CDN èç¹ä¿¡æ¯</h1>:443#CM优选 | 老挝 LA | >CloudFlare ä¼éååæ±æ» â æä¾ä¼è´¨ç CloudFlare CDN èç¹ä¿¡æ¯</h1>:443
+    <!-- é¡¶é¨ç²æ§å¯¼èªï¼åç + éç¹å¯¼èª + ä¸»é¢åæ¢ -->:443#CM优选 | <!-- 顶部粘性导航：品牌 + 锚点导航 + 主题切换 --> |     <!-- é¡¶é¨ç²æ§å¯¼èªï¼åç + éç¹å¯¼èª + ä¸»é¢åæ¢ -->:443
+    <nav class=:443#CM优选 | 老挝 LA |     <nav class=:443
+top-nav:443#CM优选 | 汤加 TO | top-nav:443
+ id=:443#CM优选 | 印尼 ID |  id=:443
+top:443#CM优选 | 汤加 TO | top:443
+ aria-label=:443#CM优选 | 老挝 LA |  aria-label=:443
+ç«ç¹å¯¼èª:443#CM优选 | 站点导航 | ç«ç¹å¯¼èª:443
+        <a class=:443#CM优选 | 老挝 LA |         <a class=:443
+nav-brand:443#CM优选 | 巴西 BR | nav-brand:443
+:443#CM优选 | 汤加 TO | :443
+>âï¸ CMä¼éåå</a>:443#CM优选 | 喀幕隆 CM | >âï¸ CMä¼éåå</a>:443
+        <span class=:443#CM优选 | 老挝 LA |         <span class=:443
+brand-tagline:443#CM优选 | 印度 IN | brand-tagline:443
+ aria-hidden=:443#CM优选 | 印尼 ID |  aria-hidden=:443
+true:443#CM优选 | 俄罗斯 RU | true:443
+>CloudFlare CDN èç¹ä¼é</span>:443#CM优选 | 老挝 LA | >CloudFlare CDN èç¹ä¼é</span>:443
+        <div class=:443#CM优选 | 老挝 LA |         <div class=:443
+nav-links:443#CM优选 | 印度 IN | nav-links:443
+            <a class=:443#CM优选 | 老挝 LA |             <a class=:443
+nav-link:443#CM优选 | 印度 IN | nav-link:443
+:443#CM优选 | 中国台湾 TW | :443
+ data-page=:443#CM优选 | 奥地利 AT |  data-page=:443
+network:443#CM优选 | 中国台湾 TW | network:443
+                <span class=:443#CM优选 | 老挝 LA |                 <span class=:443
+nav-link-icon:443#CM优选 | 印度 IN | nav-link-icon:443
+                    <svg xmlns=:443#CM优选 | 萨尔瓦多 SV |                     <svg xmlns=:443
+http://www.w3.org/2000/svg#CM优选 | 特立尼达多巴哥 TT | http://www.w3.org/2000/svg
+ width=:443#CM优选 | 泰国 TH |  width=:443
+22:443#CM优选 | 22 | 22:443
+ height=:443#CM优选 | 海地 HT |  height=:443
+ viewBox=:443#CM优选 | 爱尔兰 IE |  viewBox=:443
+0 0 24 24:443#CM优选 | 0 0 24 24 | 0 0 24 24:443
+ fill=:443#CM优选 | 芬兰 FI |  fill=:443
+none:443#CM优选 | 挪威 NO | none:443
+                        stroke=:443#CM优选 | 罗马尼亚 RO |                         stroke=:443
+currentColor:443#CM优选 | 哥伦比亚 CO | currentColor:443
+ stroke-width=:443#CM优选 | 泰国 TH |  stroke-width=:443
+1.8:443#CM优选 | 1.8 | 1.8:443
+ stroke-linecap=:443#CM优选 | 印度 IN |  stroke-linecap=:443
+round:443#CM优选 | 罗马尼亚 RO | round:443
+ stroke-linejoin=:443#CM优选 | 印度 IN |  stroke-linejoin=:443
+                        <circle cx=:443#CM优选 | 圣诞岛 CX |                         <circle cx=:443
+12:443#CM优选 | 12 | 12:443
+ cy=:443#CM优选 | 塞浦路斯 CY |  cy=:443
+ r=:443#CM优选 | r= |  r=:443
+9:443#CM优选 | 9 | 9:443
+ />:443#CM优选 | /> |  />:443
+                        <path d=:443#CM优选 | 泰国 TH |                         <path d=:443
+M3.2 9.5h17.6M3.2 14.5h17.6:443#CM优选 | M3.2 9.5h17.6M3.2 14.5h17.6 | M3.2 9.5h17.6M3.2 14.5h17.6:443
+M12 3a13.5 13.5 0 0 1 0 18a13.5 13.5 0 0 1 0-18z:443#CM优选 | M12 3a13.5 13.5 0 0 1 0 18a13.5 13.5 0 0 1 0-18z | M12 3a13.5 13.5 0 0 1 0 18a13.5 13.5 0 0 1 0-18z:443
+                    </svg>:443#CM优选 | 萨尔瓦多 SV |                     </svg>:443
+                </span>:443#CM优选 | 巴拿马 PA |                 </span>:443
+nav-link-label:443#CM优选 | 印度 IN | nav-link-label:443
+>ç½ç»ç¶æ</span>:443#CM优选 | 巴拿马 PA | >ç½ç»ç¶æ</span>:443
+            </a>:443#CM优选 | </a> |             </a>:443
+:443#CM优选 | 印度 IN | :443
+domains:443#CM优选 | 印度 IN | domains:443
+M12 3.4l2.7 5.6 6.2.9-4.5 4.4 1.1 6.2-5.5-3-5.5 3 1.1-6.2L3.1 9.9l6.2-.9z:443#CM优选 | M12 3.4l2.7 5.6 6.2.9-4.5 4.4 1.1 6.2-5.5-3-5.5 3 1.1-6.2L3.1 9.9l6.2-.9z | M12 3.4l2.7 5.6 6.2.9-4.5 4.4 1.1 6.2-5.5-3-5.5 3 1.1-6.2L3.1 9.9l6.2-.9z:443
+>ä¼éåå</span>:443#CM优选 | 巴拿马 PA | >ä¼éåå</span>:443
+:443#CM优选 | 意大利 IT | :443
+splittunnel:443#CM优选 | 意大利 IT | splittunnel:443
+M6 3v12:443#CM优选 | M6 3v12 | M6 3v12:443
+6:443#CM优选 | 6 | 6:443
+18:443#CM优选 | 18 | 18:443
+3:443#CM优选 | 3 | 3:443
+M18 9a9 9 0 0 1-9 9:443#CM优选 | M18 9a9 9 0 0 1-9 9 | M18 9a9 9 0 0 1-9 9:443
+>åæµæµè¯</span>:443#CM优选 | 巴拿马 PA | >åæµæµè¯</span>:443
+:443#CM优选 | /api | :443
+api:443#CM优选 | api | api:443
+m16 18 6-6-6-6:443#CM优选 | m16 18 6-6-6-6 | m16 18 6-6-6-6:443
+m8 6-6 6 6 6:443#CM优选 | m8 6-6 6 6 6 | m8 6-6 6 6 6:443
+>API</span>:443#CM优选 | 巴拿马 PA | >API</span>:443
+:443#CM优选 | 西班牙 ES | :443
+resources:443#CM优选 | 西班牙 ES | resources:443
+                        <rect x=:443#CM优选 | 厄瓜多尔 EC |                         <rect x=:443
+ y=:443#CM优选 | y= |  y=:443
+7.5:443#CM优选 | 7.5 | 7.5:443
+ rx=:443#CM优选 | rx= |  rx=:443
+13.5:443#CM优选 | 13.5 | 13.5:443
+>æ´å¤èµæº</span>:443#CM优选 | 巴拿马 PA | >æ´å¤èµæº</span>:443
+        </div>:443#CM优选 | </div> |         </div>:443
+        <!-- CM æ¨èå¥å£ï¼é»è®¤éèï¼ä»å¨ãç«ç¹åå®¹å è½½å®æ + éä¸­å½å¤§éå°åº + aff.json æåæåãåç± script.js æ¾ç¤ºã:443#CM优选 | 喀幕隆 CM |         <!-- CM æ¨èå¥å£ï¼é»è®¤éèï¼ä»å¨ãç«ç¹åå®¹å è½½å®æ + éä¸­å½å¤§éå°åº + aff.json æåæåãåç± script.js æ¾ç¤ºã:443
+             æ³¨æï¼ä½ä¸º .top-nav çç´æ¥å­èç¹ï¼èéæ¾è¿ .nav-links åï¼ââç§»å¨ç«¯ .nav-links ä¼ position:fixed æå°åºé¨æ ç­¾æ ï¼#CM优选 | 印度 IN |              æ³¨æï¼ä½ä¸º .top-nav çç´æ¥å­èç¹ï¼èéæ¾è¿ .nav-links åï¼ââç§»å¨ç«¯ .nav-links ä¼ position:fixed æå°åºé¨æ ç­¾æ ï¼
+             æ¾è¿ä¼è¢«ä¸èµ·æèµ°ï¼ä¸ä¼ç ´å repeat(5:443#CM优选 | 奥地利 AT |              æ¾è¿ä¼è¢«ä¸èµ·æèµ°ï¼ä¸ä¼ç ´å repeat(5:443
+â¦) äºæ ¼æ æ ¼ãç½®äº .nav-links ä¸ :443#CM优选 | 泰国 TH | â¦) äºæ ¼æ æ ¼ãç½®äº .nav-links ä¸ :443
+             ç»ä¸è½å¸¦ data-page å±æ§ï¼å¦åä¼è¢«åèé¡µç­¾è·¯ç±å½é¡µç­¾æ¥ç®¡ã -->:443#CM优选 | 奥地利 AT |              ç»ä¸è½å¸¦ data-page å±æ§ï¼å¦åä¼è¢«åèé¡µç­¾è·¯ç±å½é¡µç­¾æ¥ç®¡ã -->:443
+        <button type=:443#CM优选 | 汤加 TO |         <button type=:443
+button:443#CM优选 | 汤加 TO | button:443
+ class=:443#CM优选 | 老挝 LA |  class=:443
+nav-link cm-nav-link:443#CM优选 | 印度 IN | nav-link cm-nav-link:443
+cmAffEntry:443#CM优选 | 阿富汗 AF | cmAffEntry:443
+ hidden aria-haspopup=:443#CM优选 | 印尼 ID |  hidden aria-haspopup=:443
+dialog:443#CM优选 | 阿尔巴尼亚 AL | dialog:443
+            aria-label=:443#CM优选 | 老挝 LA |             aria-label=:443
+æå¼ CM æ¨è:443#CM优选 | 喀幕隆 CM | æå¼ CM æ¨è:443
+            <span class=:443#CM优选 | 老挝 LA |             <span class=:443
+                <!-- ç¤¼çå¾æ ï¼æ v4 åé¦ï¼ä»ãCM åå½¢å­æ ãæ¹åï¼ã:443#CM优选 | 喀幕隆 CM |                 <!-- ç¤¼çå¾æ ï¼æ v4 åé¦ï¼ä»ãCM åå½¢å­æ ãæ¹åï¼ã:443
+                     .nav-link-icon å®¹å¨å¿é¡»ä¿çï¼ç§»å¨ç«¯ CSS éæ©å¨:443#CM优选 | 印度 IN |                      .nav-link-icon å®¹å¨å¿é¡»ä¿çï¼ç§»å¨ç«¯ CSS éæ©å¨:443
+                     .top-nav .cm-nav-link .nav-link-icon ä¾èµå®åå½¢æå¤ä½ï¼æ¤éåºé¨æ ç­¾æ çå¾æ è¶ååºï¼ï¼:443#CM优选 | 印度 IN |                      .top-nav .cm-nav-link .nav-link-icon ä¾èµå®åå½¢æå¤ä½ï¼æ¤éåºé¨æ ç­¾æ çå¾æ è¶ååºï¼ï¼:443
+                     ä¸ .nav-link-icon svg ç 17px / ç§»å¨ç«¯ 18px å°ºå¯¸è§åç´æ¥ä½ç¨å¨è¿ä¸ª svg ä¸ã -->:443#CM优选 | 印度 IN |                      ä¸ .nav-link-icon svg ç 17px / ç§»å¨ç«¯ 18px å°ºå¯¸è§åç´æ¥ä½ç¨å¨è¿ä¸ª svg ä¸ã -->:443
+                <svg xmlns=:443#CM优选 | 萨尔瓦多 SV |                 <svg xmlns=:443
+                    stroke=:443#CM优选 | 罗马尼亚 RO |                     stroke=:443
+                    <rect x=:443#CM优选 | 厄瓜多尔 EC |                     <rect x=:443
+2.5:443#CM优选 | 2.5 | 2.5:443
+19:443#CM优选 | 19 | 19:443
+4.5:443#CM优选 | 4.5 | 4.5:443
+1.2:443#CM优选 | 1.2 | 1.2:443
+                    <path d=:443#CM优选 | 泰国 TH |                     <path d=:443
+M4.5 12v8.5h15V12:443#CM优选 | M4.5 12v8.5h15V12 | M4.5 12v8.5h15V12:443
+M12 7.5V21:443#CM优选 | M12 7.5V21 | M12 7.5V21:443
+M12 7.5H7.6a2.55 2.55 0 0 1 0-5.1C11.2 2.4 12 7.5 12 7.5z:443#CM优选 | M12 7.5H7.6a2.55 2.55 0 0 1 0-5.1C11.2 2.4 12 7.5 12 7.5z | M12 7.5H7.6a2.55 2.55 0 0 1 0-5.1C11.2 2.4 12 7.5 12 7.5z:443
+M12 7.5h4.4a2.55 2.55 0 0 0 0-5.1C12.8 2.4 12 7.5 12 7.5z:443#CM优选 | M12 7.5h4.4a2.55 2.55 0 0 0 0-5.1C12.8 2.4 12 7.5 12 7.5z | M12 7.5h4.4a2.55 2.55 0 0 0 0-5.1C12.8 2.4 12 7.5 12 7.5z:443
+                </svg>:443#CM优选 | 萨尔瓦多 SV |                 </svg>:443
+            </span>:443#CM优选 | 巴拿马 PA |             </span>:443
+>CMæ¨è</span>:443#CM优选 | 巴拿马 PA | >CMæ¨è</span>:443
+        </button>:443#CM优选 | 汤加 TO |         </button>:443
+        <button id=:443#CM优选 | 印尼 ID |         <button id=:443
+theme-switcher:443#CM优选 | 泰国 TH | theme-switcher:443
+åæ¢ä¸»é¢:443#CM优选 | 切换主题 | åæ¢ä¸»é¢:443
+            <svg class=:443#CM优选 | 老挝 LA |             <svg class=:443
+sun-icon:443#CM优选 | 哥伦比亚 CO | sun-icon:443
+ xmlns=:443#CM优选 | 马里 ML |  xmlns=:443
+                stroke=:443#CM优选 | 罗马尼亚 RO |                 stroke=:443
+2:443#CM优选 | 2 | 2:443
+                <circle cx=:443#CM优选 | 圣诞岛 CX |                 <circle cx=:443
+5:443#CM优选 | 5 | 5:443
+></circle>:443#CM优选 | 智利 CL | ></circle>:443
+                <line x1=:443#CM优选 | 印度 IN |                 <line x1=:443
+ y1=:443#CM优选 | y1= |  y1=:443
+1:443#CM优选 | 1 | 1:443
+ x2=:443#CM优选 | x2= |  x2=:443
+ y2=:443#CM优选 | y2= |  y2=:443
+></line>:443#CM优选 | 印度 IN | ></line>:443
+21:443#CM优选 | 21 | 21:443
+23:443#CM优选 | 23 | 23:443
+4.22:443#CM优选 | 4.22 | 4.22:443
+5.64:443#CM优选 | 5.64 | 5.64:443
+18.36:443#CM优选 | 18.36 | 18.36:443
+19.78:443#CM优选 | 19.78 | 19.78:443
+            </svg>:443#CM优选 | 萨尔瓦多 SV |             </svg>:443
+moon-icon:443#CM优选 | 中国澳门 MO | moon-icon:443
+                <path d=:443#CM优选 | 泰国 TH |                 <path d=:443
+M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z:443#CM优选 | M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z | M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z:443
+></path>:443#CM优选 | 泰国 TH | ></path>:443
+    </nav>:443#CM优选 | 纳米比亚 NA |     </nav>:443
+    <div class=:443#CM优选 | 老挝 LA |     <div class=:443
+container:443#CM优选 | 印度 IN | container:443
+        <!-- æ¨å¹¿æ¿åï¼å¨çº¿ä¼éCFå®æ¹åå -->:443#CM优选 | <!-- 推广板块：在线优选CF官方域名 --> |         <!-- æ¨å¹¿æ¿åï¼å¨çº¿ä¼éCFå®æ¹åå -->:443
+        <section class=:443#CM优选 | 老挝 LA |         <section class=:443
+promo-banner:443#CM优选 | 中国澳门 MO | promo-banner:443
+ aria-labelledby=:443#CM优选 | 老挝 LA |  aria-labelledby=:443
+promo-title:443#CM优选 | 中国澳门 MO | promo-title:443
+            <div class=:443#CM优选 | 老挝 LA |             <div class=:443
+promo-content:443#CM优选 | 中国澳门 MO | promo-content:443
+promo-icon:443#CM优选 | 中国澳门 MO | promo-icon:443
+>ð</span>:443#CM优选 | 巴拿马 PA | >ð</span>:443
+                <div class=:443#CM优选 | 老挝 LA |                 <div class=:443
+promo-text:443#CM优选 | 中国澳门 MO | promo-text:443
+                    <h2 class=:443#CM优选 | 老挝 LA |                     <h2 class=:443
+>å¨çº¿ä¼é CFå®æ¹åå</h2>:443#CM优选 | >在线优选 CF官方域名</h2> | >å¨çº¿ä¼é CFå®æ¹åå</h2>:443
+                    <p class=:443#CM优选 | 老挝 LA |                     <p class=:443
+promo-desc:443#CM优选 | 中国澳门 MO | promo-desc:443
+>å¨çº¿ä¸é®ä¼é CloudFlare å®æ¹ååï¼èªå¨è·åææ°å®æ¹ä¼éå°åï¼å³å¼å³ç¨ã</p>:443#CM优选 | 老挝 LA | >å¨çº¿ä¸é®ä¼é CloudFlare å®æ¹ååï¼èªå¨è·åææ°å®æ¹ä¼éå°åï¼å³å¼å³ç¨ã</p>:443
+                </div>:443#CM优选 | </div> |                 </div>:443
+            </div>:443#CM优选 | </div> |             </div>:443
+promo-cta:443#CM优选 | 中国澳门 MO | promo-cta:443
+https://bestcf.fxxk.dedyn.io/#CM优选 | 特立尼达多巴哥 TT | https://bestcf.fxxk.dedyn.io/
+ target=:443#CM优选 | 格鲁吉亚 GE |  target=:443
+_blank:443#CM优选 | 老挝 LA | _blank:443
+ rel=:443#CM优选 | 留尼汪 RE |  rel=:443
+noopener noreferrer:443#CM优选 | 挪威 NO | noopener noreferrer:443
+                aria-label=:443#CM优选 | 老挝 LA |                 aria-label=:443
+ç«å³åå¾å¨çº¿ä¼éCFå®æ¹ååï¼æ°çªå£æå¼ï¼:443#CM优选 | 立即前往在线优选CF官方域名（新窗口打开） | ç«å³åå¾å¨çº¿ä¼éCFå®æ¹ååï¼æ°çªå£æå¼ï¼:443
+                ç«å³åå¾:443#CM优选 | 立即前往 |                 ç«å³åå¾:443
+                    aria-hidden=:443#CM优选 | 印尼 ID |                     aria-hidden=:443
+M15 3h6v6:443#CM优选 | M15 3h6v6 | M15 3h6v6:443
+M10 14 21 3:443#CM优选 | M10 14 21 3 | M10 14 21 3:443
+M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6:443#CM优选 | M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6 | M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6:443
+        </section>:443#CM优选 | 英属印度洋领地 IO |         </section>:443
+        <!-- é¡µé¢ï¼ç½ç»ç¶æï¼é¦é¡µé»è®¤å±ç¤ºï¼ -->:443#CM优选 | <!-- 页面：网络状态（首页默认展示） --> |         <!-- é¡µé¢ï¼ç½ç»ç¶æï¼é¦é¡µé»è®¤å±ç¤ºï¼ -->:443
+page:443#CM优选 | 格鲁吉亚 GE | page:443
+        <!-- ç½ç»åºå£ä¿¡æ¯ -->:443#CM优选 | <!-- 网络出口信息 --> |         <!-- ç½ç»åºå£ä¿¡æ¯ -->:443
+port-info:443#CM优选 | 印度 IN | port-info:443
+            <h3 class=:443#CM优选 | 老挝 LA |             <h3 class=:443
+section-title:443#CM优选 | 东帝汶 TL | section-title:443
+>ð å½åç½ç»ä¿¡æ¯</h3>:443#CM优选 | >🌍 当前网络信息</h3> | >ð å½åç½ç»ä¿¡æ¯</h3>:443
+            <p class=:443#CM优选 | 老挝 LA |             <p class=:443
+section-subtitle:443#CM优选 | 不丹 BT | section-subtitle:443
+>å®æ¶æ£æµæ¨å½åçåºå£ IP ä¸å½åå¤è¿éæ§è´¨éï¼æ¯æ IP éç§è±æï¼ç¹å» IP å¯æ¥çå½å±ä¸é£é©è¯¦æï¼ä¸æ¹å¡çä¸ºå¸¸ç¨ç«ç¹çå®æ¶å»¶è¿çæµã</p>:443#CM优选 | >实时检测您当前的出口 IP 与国内外连通性质量，支持 IP 隐私脱敏；点击 IP 可查看归属与风险详情，下方卡片为常用站点的实时延迟监测。</p> | >å®æ¶æ£æµæ¨å½åçåºå£ IP ä¸å½åå¤è¿éæ§è´¨éï¼æ¯æ IP éç§è±æï¼ç¹å» IP å¯æ¥çå½å±ä¸é£é©è¯¦æï¼ä¸æ¹å¡çä¸ºå¸¸ç¨ç«ç¹çå®æ¶å»¶è¿çæµã</p>:443
+network-cards-container:443#CM优选 | 中国台湾 TW | network-cards-container:443
+network-card:443#CM优选 | 中国台湾 TW | network-card:443
+                    <div class=:443#CM优选 | 老挝 LA |                     <div class=:443
+network-card-title:443#CM优选 | 中国台湾 TW | network-card-title:443
+                        <span class=:443#CM优选 | 老挝 LA |                         <span class=:443
+status-indicator:443#CM优选 | 印度 IN | status-indicator:443
+status-ipip:443#CM优选 | 美国 US | status-ipip:443
+></span>:443#CM优选 | 巴拿马 PA | ></span>:443
+                        <div class=:443#CM优选 | 老挝 LA |                         <div class=:443
+title-text:443#CM优选 | 东帝汶 TL | title-text:443
+                            <div class=:443#CM优选 | 老挝 LA |                             <div class=:443
+title-main:443#CM优选 | 印度 IN | title-main:443
+>å½åæµè¯</div>:443#CM优选 | >国内测试</div> | >å½åæµè¯</div>:443
+title-subtitle:443#CM优选 | 不丹 BT | title-subtitle:443
+ipip-subtitle:443#CM优选 | 不丹 BT | ipip-subtitle:443
+></div>:443#CM优选 | ></div> | ></div>:443
+                        </div>:443#CM优选 | </div> |                         </div>:443
+                    </div>:443#CM优选 | </div> |                     </div>:443
+network-info-content:443#CM优选 | 中国台湾 TW | network-info-content:443
+                        <span id=:443#CM优选 | 印尼 ID |                         <span id=:443
+ipip-ip:443#CM优选 | ipip-ip | ipip-ip:443
+ip-text:443#CM优选 | ip-text | ip-text:443
+>å è½½ä¸­...</span>:443#CM优选 | 巴拿马 PA | >å è½½ä¸­...</span>:443
+location-text:443#CM优选 | 英属印度洋领地 IO | location-text:443
+                            <span id=:443#CM优选 | 印尼 ID |                             <span id=:443
+ipip-country:443#CM优选 | 土耳其 TR | ipip-country:443
+country-text:443#CM优选 | 土耳其 TR | country-text:443
+>-</span>:443#CM优选 | 巴拿马 PA | >-</span>:443
+network-tip:443#CM优选 | 中国台湾 TW | network-tip:443
+>Â· æ¨è®¿é®å½åç«ç¹æä½¿ç¨çIP</div>:443#CM优选 | >· 您访问国内站点所使用的IP</div> | >Â· æ¨è®¿é®å½åç«ç¹æä½¿ç¨çIP</div>:443
+status-overseas:443#CM优选 | 美属萨摩亚 AS | status-overseas:443
+>å½å¤æµè¯</div>:443#CM优选 | >国外测试</div> | >å½å¤æµè¯</div>:443
+overseas-subtitle:443#CM优选 | 不丹 BT | overseas-subtitle:443
+>æ¼ç½ä¹é±¼</div>:443#CM优选 | >漏网之鱼</div> | >æ¼ç½ä¹é±¼</div>:443
+overseas-ip:443#CM优选 | 美属萨摩亚 AS | overseas-ip:443
+overseas-country:443#CM优选 | 美属萨摩亚 AS | overseas-country:443
+>Â· æ¨è®¿é®æ²¡æè¢«å°çå½å¤ç«ç¹æä½¿ç¨çIP</div>:443#CM优选 | >· 您访问没有被封的国外站点所使用的IP</div> | >Â· æ¨è®¿é®æ²¡æè¢«å°çå½å¤ç«ç¹æä½¿ç¨çIP</div>:443
+status-cf:443#CM优选 | 美国 US | status-cf:443
+>CloudFlare</div>:443#CM优选 | 老挝 LA | >CloudFlare</div>:443
+cf-subtitle:443#CM优选 | 不丹 BT | cf-subtitle:443
+>ProxyIP</div>:443#CM优选 | 波多黎各 PR | >ProxyIP</div>:443
+cf-ip:443#CM优选 | cf-ip | cf-ip:443
+cf-country:443#CM优选 | 土耳其 TR | cf-country:443
+>Â· æ¨è®¿é®CFCDNç«ç¹æä½¿ç¨çè½å°IP</div>:443#CM优选 | 刚果民主共和国 CD | >Â· æ¨è®¿é®CFCDNç«ç¹æä½¿ç¨çè½å°IP</div>:443
+status-twitter:443#CM优选 | 中国台湾 TW | status-twitter:443
+>å¢å¤æµè¯</div>:443#CM优选 | >墙外测试</div> | >å¢å¤æµè¯</div>:443
+twitter-subtitle:443#CM优选 | 中国台湾 TW | twitter-subtitle:443
+><span:443#CM优选 | 巴拿马 PA | ><span:443
+                                    class=:443#CM优选 | 老挝 LA |                                     class=:443
+subtitle-full:443#CM优选 | 不丹 BT | subtitle-full:443
+                                        class=:443#CM优选 | 老挝 LA |                                         class=:443
+tw-subtitle-twitter cf-subtitle-switch:443#CM优选 | 中国台湾 TW | tw-subtitle-twitter cf-subtitle-switch:443
+ data-tw-target-index=:443#CM优选 | 中国台湾 TW |  data-tw-target-index=:443
+0:443#CM优选 | 0 | 0:443
+                                        role=:443#CM优选 | 罗马尼亚 RO |                                         role=:443
+ tabindex=:443#CM优选 | 印度 IN |  tabindex=:443
+>æ¨ç¹(X.com)</span><span:443#CM优选 | 巴拿马 PA | >æ¨ç¹(X.com)</span><span:443
+cf-subtitle-sep:443#CM优选 | 不丹 BT | cf-subtitle-sep:443
+> / </span><span:443#CM优选 | 巴拿马 PA | > / </span><span:443
+tw-subtitle-google cf-subtitle-switch:443#CM优选 | 中国台湾 TW | tw-subtitle-google cf-subtitle-switch:443
+                                        data-tw-target-index=:443#CM优选 | 中国台湾 TW |                                         data-tw-target-index=:443
+>è°·æ­(Google)</span></span><span:443#CM优选 | 格陵兰 GL | >è°·æ­(Google)</span></span><span:443
+subtitle-compact:443#CM优选 | 不丹 BT | subtitle-compact:443
+>X</span><span:443#CM优选 | 巴拿马 PA | >X</span><span:443
+>è°·æ­</span></span></div>:443#CM优选 | 巴拿马 PA | >è°·æ­</span></span></div>:443
+twitter-ip:443#CM优选 | 中国台湾 TW | twitter-ip:443
+twitter-country:443#CM优选 | 中国台湾 TW | twitter-country:443
+twitter-tip:443#CM优选 | 中国台湾 TW | twitter-tip:443
+>Â· æ¨è®¿é®å¢å¤ç«ç¹æä½¿ç¨çIP</div>:443#CM优选 | >· 您访问墙外站点所使用的IP</div> | >Â· æ¨è®¿é®å¢å¤ç«ç¹æä½¿ç¨çIP</div>:443
+            <!-- å»¶è¿ååºè¡ï¼ç§»å¨ç«¯ç´§åå½¢ææ¾ç¤ºï¼æ¡é¢éèï¼è²æ¡å¾ä¾ä¸å¡çå·¦ç¼è²æ¡å¼åºï¼ -->:443#CM优选 | <!-- 延迟分区行（移动端紧凑形态显示，桌面隐藏；色条图例与卡片左缘色条呼应） --> |             <!-- å»¶è¿ååºè¡ï¼ç§»å¨ç«¯ç´§åå½¢ææ¾ç¤ºï¼æ¡é¢éèï¼è²æ¡å¾ä¾ä¸å¡çå·¦ç¼è²æ¡å¼åºï¼ -->:443
+latency-head:443#CM优选 | 老挝 LA | latency-head:443
+latency-head-title:443#CM优选 | 老挝 LA | latency-head-title:443
+>â± å»¶è¿æµè¯</span>:443#CM优选 | 巴拿马 PA | >â± å»¶è¿æµè¯</span>:443
+lat-legend:443#CM优选 | 老挝 LA | lat-legend:443
+                    <span class=:443#CM优选 | 老挝 LA |                     <span class=:443
+lat-legend-item:443#CM优选 | 老挝 LA | lat-legend-item:443
+><span class=:443#CM优选 | 老挝 LA | ><span class=:443
+lat-legend-dot domestic:443#CM优选 | 老挝 LA | lat-legend-dot domestic:443
+></span>å½å</span>:443#CM优选 | 巴拿马 PA | ></span>å½å</span>:443
+lat-legend-dot international:443#CM优选 | 印度 IN | lat-legend-dot international:443
+></span>å½é</span>:443#CM优选 | 巴拿马 PA | ></span>å½é</span>:443
+            <!--  ç½ç«å»¶è¿æµè¯  -->:443#CM优选 | <!--  网站延迟测试  --> |             <!--  ç½ç«å»¶è¿æµè¯  -->:443
+latency-cards:443#CM优选 | 老挝 LA | latency-cards:443
+                <!-- å¡çå°éè¿JavaScriptå¨æçæ -->:443#CM优选 | 美属萨摩亚 AS |                 <!-- å¡çå°éè¿JavaScriptå¨æçæ -->:443
+        <!-- é¡µé¢ï¼ä¼éååï¼é¡µå¤´ hero + ä¸»æä½åº + éç½®éæ¥ + å»¶è¿ç»è®¡ + åè´£å£°æï¼ -->:443#CM优选 | 罗马尼亚 RO |         <!-- é¡µé¢ï¼ä¼éååï¼é¡µå¤´ hero + ä¸»æä½åº + éç½®éæ¥ + å»¶è¿ç»è®¡ + åè´£å£°æï¼ -->:443
+ hidden>:443#CM优选 | 印尼 ID |  hidden>:443
+section:443#CM优选 | 英属印度洋领地 IO | section:443
+            <!-- é¡µå¤´åºï¼ä¸å±è¯´æ¸ãè¿æ¯ä»ä¹ + è½ç»ä½ ä»ä¹ã -->:443#CM优选 | <!-- 页头区：一屏说清「这是什么 + 能给你什么」 --> |             <!-- é¡µå¤´åºï¼ä¸å±è¯´æ¸ãè¿æ¯ä»ä¹ + è½ç»ä½ ä»ä¹ã -->:443
+            <header class=:443#CM优选 | 老挝 LA |             <header class=:443
+page-hero:443#CM优选 | 罗马尼亚 RO | page-hero:443
+hero-inner:443#CM优选 | 印度 IN | hero-inner:443
+hero-eyebrow:443#CM优选 | 罗马尼亚 RO | hero-eyebrow:443
+dot:443#CM优选 | 多米尼加 DO | dot:443
+></span>æå¡è¿è¡ä¸­</span>:443#CM优选 | 巴拿马 PA | ></span>æå¡è¿è¡ä¸­</span>:443
+                    <h2>ä¼éååï¼<em>ä¸å¤å¶å³ç¨</em></h2>:443#CM优选 | <h2>优选域名，<em>一复制即用</em></h2> |                     <h2>ä¼éååï¼<em>ä¸å¤å¶å³ç¨</em></h2>:443
+                    <p>:443#CM优选 | <p> |                     <p>:443
+                        æ³ååè§£æå° CloudFlare ä¼éèç¹ï¼æ éèªè¡æµéæ IPãä»»æåç¼ç­ä»·å¯ç¨ ââ:443#CM优选 | 老挝 LA |                         æ³ååè§£æå° CloudFlare ä¼éèç¹ï¼æ éèªè¡æµéæ IPãä»»æåç¼ç­ä»·å¯ç¨ ââ:443
+                        æ¬é¡µå·²ä¸ºä½ éæºçæä¸ä¸ªåç¼ï¼ç¹å»ååæçéª°å­å¾æ å¯éæ¶æ´æ¢ãå¡«å¥å®¢æ·ç«¯ç:443#CM优选 | 本页已为你随机生成一个前缀，点击域名旁的骰子图标可随时更换。填入客户端的 |                         æ¬é¡µå·²ä¸ºä½ éæºçæä¸ä¸ªåç¼ï¼ç¹å»ååæçéª°å­å¾æ å¯éæ¶æ´æ¢ãå¡«å¥å®¢æ·ç«¯ç:443
+                        <code>server</code> / <code>address</code> å­æ®µå¹¶éæ© CloudFlare æ¯æç:443#CM优选 | 老挝 LA |                         <code>server</code> / <code>address</code> å­æ®µå¹¶éæ© CloudFlare æ¯æç:443
+                        HTTP / HTTPS ç«¯å£å³å¯çæã:443#CM优选 | 特立尼达多巴哥 TT |                         HTTP / HTTPS ç«¯å£å³å¯çæã:443
+                    </p>:443#CM优选 | </p> |                     </p>:443
+hero-meta:443#CM优选 | 罗马尼亚 RO | hero-meta:443
+hero-meta-item:443#CM优选 | 意大利 IT | hero-meta-item:443
+>çº¿è·¯æ¯æã<b>çµä¿¡ / èé / ç§»å¨</b></span>:443#CM优选 | 巴拿马 PA | >çº¿è·¯æ¯æã<b>çµä¿¡ / èé / ç§»å¨</b></span>:443
+>å¯ç¨ç«¯å£ã<b>HTTP / HTTPS å± 13 ä¸ª</b></span>:443#CM优选 | 巴拿马 PA | >å¯ç¨ç«¯å£ã<b>HTTP / HTTPS å± 13 ä¸ª</b></span>:443
+>åç¼è§åã<b>ä»»æåç¼åå¯</b></span>:443#CM优选 | 巴拿马 PA | >åç¼è§åã<b>ä»»æåç¼åå¯</b></span>:443
+            </header>:443#CM优选 | 德国 DE |             </header>:443
+            <!-- ä¸»æä½åº -->:443#CM优选 | <!-- 主操作区 --> |             <!-- ä¸»æä½åº -->:443
+>ð ä¸»æ¨ä¼éåå</h3>:443#CM优选 | >🌟 主推优选域名</h3> | >ð ä¸»æ¨ä¼éåå</h3>:443
+>ç¹å»ä¸æ¹ä»»ä¸ååå³å¯å¤å¶ãæ³ååä»»æåç¼ææç¸åï¼å«ä¸æ¹éæºåç¼ï¼ï¼æ¨èç¨éæºåç¼åå»è®°å¿ä¸æéã</p>:443#CM优选 | >点击下方任一域名即可复制。泛域名任意前缀效果相同（含上方随机前缀），推荐用随机前缀免去记忆与挑选。</p> | >ç¹å»ä¸æ¹ä»»ä¸ååå³å¯å¤å¶ãæ³ååä»»æåç¼ææç¸åï¼å«ä¸æ¹éæºåç¼ï¼ï¼æ¨èç¨éæºåç¼åå»è®°å¿ä¸æéã</p>:443
+primary-card:443#CM优选 | 加拿大 CA | primary-card:443
+primary-top:443#CM优选 | 汤加 TO | primary-top:443
+badge badge-wildcard:443#CM优选 | 加拿大 CA | badge badge-wildcard:443
+>â¦ æ³åå</span>:443#CM优选 | 巴拿马 PA | >â¦ æ³åå</span>:443
+badge badge-triple:443#CM优选 | 波兰 PL | badge badge-triple:443
+>ð ä¸ç½ä¼é</span>:443#CM优选 | 巴拿马 PA | >ð ä¸ç½ä¼é</span>:443
+badge badge-https:443#CM优选 | 波黑 BA | badge badge-https:443
+>ð æ¯æ HTTPS</span>:443#CM优选 | 巴拿马 PA | >ð æ¯æ HTTPS</span>:443
+                <!-- ä¸»ååè¡ï¼åç¼éæºçæï¼æ  JS æ¶ååºä¸º youxuanï¼ï¼ç¹å»ååææé®å¤å¶ï¼éª°å­æé®éæ°éæº -->:443#CM优选 | 乌克兰 UA |                 <!-- ä¸»ååè¡ï¼åç¼éæºçæï¼æ  JS æ¶ååºä¸º youxuanï¼ï¼ç¹å»ååææé®å¤å¶ï¼éª°å­æé®éæ°éæº -->:443
+domain-copy-row:443#CM优选 | 印度 IN | domain-copy-row:443
+                    <button type=:443#CM优选 | 汤加 TO |                     <button type=:443
+domain-hit:443#CM优选 | 印度 IN | domain-hit:443
+domainHit:443#CM优选 | 印度 IN | domainHit:443
+ data-copy=:443#CM优选 | 奥地利 AT |  data-copy=:443
+youxuan.cf.090227.xyz:443#CM优选 | 乌克兰 UA | youxuan.cf.090227.xyz:443
+                        aria-label=:443#CM优选 | 老挝 LA |                         aria-label=:443
+å¤å¶ä¼éåå youxuan.cf.090227.xyz:443#CM优选 | 乌克兰 UA | å¤å¶ä¼éåå youxuan.cf.090227.xyz:443
+domain-main:443#CM优选 | 印度 IN | domain-main:443
+prefix:443#CM优选 | 波多黎各 PR | prefix:443
+domainPrefix:443#CM优选 | 印度 IN | domainPrefix:443
+>youxuan</span><span:443#CM优选 | 乌克兰 UA | >youxuan</span><span:443
+                                class=:443#CM优选 | 老挝 LA |                                 class=:443
+domain-accent:443#CM优选 | 印度 IN | domain-accent:443
+>.cf.090227.xyz</span></span>:443#CM优选 | 巴拿马 PA | >.cf.090227.xyz</span></span>:443
+                    </button>:443#CM优选 | 汤加 TO |                     </button>:443
+randomize-btn:443#CM优选 | 不丹 BT | randomize-btn:443
+randomizeBtn:443#CM优选 | 不丹 BT | randomizeBtn:443
+éæºæ´æ¢åååç¼:443#CM优选 | 随机更换域名前缀 | éæºæ´æ¢åååç¼:443
+                        title=:443#CM优选 | 东帝汶 TL |                         title=:443
+éæºæ´æ¢åç¼:443#CM优选 | 随机更换前缀 | éæºæ´æ¢åç¼:443
+                        <svg xmlns=:443#CM优选 | 萨尔瓦多 SV |                         <svg xmlns=:443
+                            stroke=:443#CM优选 | 罗马尼亚 RO |                             stroke=:443
+                            aria-hidden=:443#CM优选 | 印尼 ID |                             aria-hidden=:443
+                            <path d=:443#CM优选 | 泰国 TH |                             <path d=:443
+M2 18h1.4c1.3 0 2.5-.6 3.3-1.7l6.1-8.6c.8-1.1 2-1.7 3.3-1.7H22:443#CM优选 | M2 18h1.4c1.3 0 2.5-.6 3.3-1.7l6.1-8.6c.8-1.1 2-1.7 3.3-1.7H22 | M2 18h1.4c1.3 0 2.5-.6 3.3-1.7l6.1-8.6c.8-1.1 2-1.7 3.3-1.7H22:443
+m18 2 4 4-4 4:443#CM优选 | m18 2 4 4-4 4 | m18 2 4 4-4 4:443
+M2 6h1.9c1.5 0 2.9.9 3.6 2.2:443#CM优选 | M2 6h1.9c1.5 0 2.9.9 3.6 2.2 | M2 6h1.9c1.5 0 2.9.9 3.6 2.2:443
+M22 18h-5.9c-1.3 0-2.6-.7-3.3-1.8l-.5-.8:443#CM优选 | M22 18h-5.9c-1.3 0-2.6-.7-3.3-1.8l-.5-.8 | M22 18h-5.9c-1.3 0-2.6-.7-3.3-1.8l-.5-.8:443
+m18 14 4 4-4 4:443#CM优选 | m18 14 4 4-4 4 | m18 14 4 4-4 4:443
+                        </svg>:443#CM优选 | 萨尔瓦多 SV |                         </svg>:443
+copy-affordance:443#CM优选 | 阿富汗 AF | copy-affordance:443
+copyBtn:443#CM优选 | 不丹 BT | copyBtn:443
+å¤å¶å½åä¼éåå:443#CM优选 | 复制当前优选域名 | å¤å¶å½åä¼éåå:443
+                            <path:443#CM优选 | 泰国 TH |                             <path:443
+                                d=:443#CM优选 | d= |                                 d=:443
+M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z:443#CM优选 | 赞比亚 ZM | M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z:443
+copy-text:443#CM优选 | 哥伦比亚 CO | copy-text:443
+>å¤å¶åå</span>:443#CM优选 | 巴拿马 PA | >å¤å¶åå</span>:443
+                <!-- ç­ä»·å«åï¼æ³ååä»»æåç¼ç­ä»· -->:443#CM优选 | <!-- 等价别名：泛域名任意前缀等价 --> |                 <!-- ç­ä»·å«åï¼æ³ååä»»æåç¼ç­ä»· -->:443
+alias-block:443#CM优选 | 库克群岛 CK | alias-block:443
+alias-label:443#CM优选 | 老挝 LA | alias-label:443
+>ç­ä»·åæ³ <span class=:443#CM优选 | 老挝 LA | >ç­ä»·åæ³ <span class=:443
+hint:443#CM优选 | 印度 IN | hint:443
+>â æ³ååä»»æåç¼ææç¸åï¼å«ä¸æ¹éæºåç¼ï¼ï¼ç¹å»å¯ç´æ¥å¤å¶</span></span>:443#CM优选 | 巴拿马 PA | >â æ³ååä»»æåç¼ææç¸åï¼å«ä¸æ¹éæºåç¼ï¼ï¼ç¹å»å¯ç´æ¥å¤å¶</span></span>:443
+alias-list:443#CM优选 | 美属萨摩亚 AS | alias-list:443
+                        <!-- data-copy ç¨ punycodeï¼xn--4oq269m = ãä¼éãï¼ï¼é¨åå®¢æ·ç«¯ä¸æ¯æä¸­æååï¼å¤å¶éä¸º ASCII å¼å®¹ç¼ç ï¼æ¾ç¤ºææ¬ä¿æä¸­æ -->:443#CM优选 | 美属萨摩亚 AS |                         <!-- data-copy ç¨ punycodeï¼xn--4oq269m = ãä¼éãï¼ï¼é¨åå®¢æ·ç«¯ä¸æ¯æä¸­æååï¼å¤å¶éä¸º ASCII å¼å®¹ç¼ç ï¼æ¾ç¤ºææ¬ä¿æä¸­æ -->:443
+                        <button type=:443#CM优选 | 汤加 TO |                         <button type=:443
+alias-chip:443#CM优选 | 美属萨摩亚 AS | alias-chip:443
+xn--4oq269m.cf.090227.xyz:443#CM优选 | xn--4oq269m.cf.090227.xyz | xn--4oq269m.cf.090227.xyz:443
+                            aria-label=:443#CM优选 | 老挝 LA |                             aria-label=:443
+å¤å¶ xn--4oq269m.cf.090227.xyz:443#CM优选 | 复制 xn--4oq269m.cf.090227.xyz | å¤å¶ xn--4oq269m.cf.090227.xyz:443
+caret:443#CM优选 | 加拿大 CA | caret:443
+>âº</span>:443#CM优选 | 巴拿马 PA | >âº</span>:443
+                            ä¼é.cf.090227.xyz</button>:443#CM优选 | 汤加 TO |                             ä¼é.cf.090227.xyz</button>:443
+123.cf.090227.xyz:443#CM优选 | 123.cf.090227.xyz | 123.cf.090227.xyz:443
+å¤å¶ 123.cf.090227.xyz:443#CM优选 | 复制 123.cf.090227.xyz | å¤å¶ 123.cf.090227.xyz:443
+                            123.cf.090227.xyz</button>:443#CM优选 | 汤加 TO |                             123.cf.090227.xyz</button>:443
+cf.090227.xyz:443#CM优选 | cf.090227.xyz | cf.090227.xyz:443
+å¤å¶ä¸»åå cf.090227.xyz:443#CM优选 | 复制主域名 cf.090227.xyz | å¤å¶ä¸»åå cf.090227.xyz:443
+                            cf.090227.xyz</button>:443#CM优选 | 汤加 TO |                             cf.090227.xyz</button>:443
+                <!-- ä¸æ­¥ä½¿ç¨æå¼ -->:443#CM优选 | <!-- 三步使用指引 --> |                 <!-- ä¸æ­¥ä½¿ç¨æå¼ -->:443
+steps:443#CM优选 | 巴勒斯坦 PS | steps:443
+step:443#CM优选 | 圣多美和普林西比 ST | step:443
+step-num:443#CM优选 | 纽埃 NU | step-num:443
+>1</span>:443#CM优选 | 巴拿马 PA | >1</span>:443
+step-text:443#CM优选 | 圣多美和普林西比 ST | step-text:443
+><b>å¤å¶åå</b>ç¹å»ä¸æ¹ååæå«åï¼èªå¨åå¥åªè´´æ¿ã</span>:443#CM优选 | 巴拿马 PA | ><b>å¤å¶åå</b>ç¹å»ä¸æ¹ååæå«åï¼èªå¨åå¥åªè´´æ¿ã</span>:443
+>2</span>:443#CM优选 | 巴拿马 PA | >2</span>:443
+><b>å¡«å¥å®¢æ·ç«¯</b>ç²è´´å° <code>server</code> /:443#CM优选 | 德国 DE | ><b>å¡«å¥å®¢æ·ç«¯</b>ç²è´´å° <code>server</code> /:443
+                            <code>address</code> å­æ®µã</span>:443#CM优选 | 德国 DE |                             <code>address</code> å­æ®µã</span>:443
+>3</span>:443#CM优选 | 巴拿马 PA | >3</span>:443
+><b>éæ©ç«¯å£</b>ä½¿ç¨ CloudFlare æ¯æçä»»æ HTTP / HTTPS ç«¯å£å³å¯çæã</span>:443#CM优选 | 老挝 LA | ><b>éæ©ç«¯å£</b>ä½¿ç¨ CloudFlare æ¯æçä»»æ HTTP / HTTPS ç«¯å£å³å¯çæã</span>:443
+            <!-- å»¶è¿ç»è®¡ï¼ç´æ¥å¼ç¨ vps789.com å®æ¶ç»è®¡å¾ï¼æ¬ç«ä¸èªäº§ä¸ç½å»¶è¿æ°æ®ï¼ -->:443#CM优选 | <!-- 延迟统计：直接引用 vps789.com 实时统计图（本站不自产三网延迟数据） --> |             <!-- å»¶è¿ç»è®¡ï¼ç´æ¥å¼ç¨ vps789.com å®æ¶ç»è®¡å¾ï¼æ¬ç«ä¸èªäº§ä¸ç½å»¶è¿æ°æ®ï¼ -->:443
+>ð å»¶è¿ç»è®¡</h3>:443#CM优选 | >📊 延迟统计</h3> | >ð å»¶è¿ç»è®¡</h3>:443
+>å®æ¶ä¸ç½å»¶è¿ç»è®¡å¾ç± vps789.com æä¾ï¼ç´è§åæ å½åä¼éååå¨åçº¿è·¯çè´¨éè¡¨ç°ã</p>:443#CM优选 | >实时三网延迟统计图由 vps789.com 提供，直观反映当前优选域名在各线路的质量表现。</p> | >å®æ¶ä¸ç½å»¶è¿ç»è®¡å¾ç± vps789.com æä¾ï¼ç´è§åæ å½åä¼éååå¨åçº¿è·¯çè´¨éè¡¨ç°ã</p>:443
+chart-shell:443#CM优选 | 瑞士 CH | chart-shell:443
+chart-caption:443#CM优选 | 英属印度洋领地 IO | chart-caption:443
+                    <span>ð ä¸ç½å»¶è¿åå¸ï¼å®æ¶ç»è®¡ï¼</span>:443#CM优选 | 巴拿马 PA |                     <span>ð ä¸ç½å»¶è¿åå¸ï¼å®æ¶ç»è®¡ï¼</span>:443
+                    <span>æ°æ®æ¥æºï¼<a class=:443#CM优选 | 老挝 LA |                     <span>æ°æ®æ¥æºï¼<a class=:443
+chart-source:443#CM优选 | 瑞士 CH | chart-source:443
+https://vps789.com/cfip/#CM优选 | 特立尼达多巴哥 TT | https://vps789.com/cfip/
+                            target=:443#CM优选 | 格鲁吉亚 GE |                             target=:443
+åå¾ vps789.com æ¥çå»¶è¿ç»è®¡ï¼æ°çªå£æå¼ï¼:443#CM优选 | 前往 vps789.com 查看延迟统计（新窗口打开） | åå¾ vps789.com æ¥çå»¶è¿ç»è®¡ï¼æ°çªå£æå¼ï¼:443
+>vps789.com</a></span>:443#CM优选 | 巴拿马 PA | >vps789.com</a></span>:443
+                <img class=:443#CM优选 | 老挝 LA |                 <img class=:443
+chart-img lazy-image:443#CM优选 | 老挝 LA | chart-img lazy-image:443
+ src=:443#CM优选 | 苏里南 SR |  src=:443
+./img.png:443#CM优选 | ./img.png | ./img.png:443
+ data-src=:443#CM优选 | 奥地利 AT |  data-src=:443
+https://vps789.com/public/view/13423#CM优选 | 特立尼达多巴哥 TT | https://vps789.com/public/view/13423
+                    alt=:443#CM优选 | 立宛陶 LT |                     alt=:443
+ä¼éååä¸ç½å»¶è¿ç»è®¡å¾:443#CM优选 | 优选域名三网延迟统计图 | ä¼éååä¸ç½å»¶è¿ç»è®¡å¾:443
+notice:443#CM优选 | 挪威 NO | notice:443
+notice-icon:443#CM优选 | 挪威 NO | notice-icon:443
+>â ï¸</span>:443#CM优选 | 巴拿马 PA | >â ï¸</span>:443
+                <span>:443#CM优选 | 巴拿马 PA |                 <span>:443
+                    <strong>åè´£å£°æ</strong>:443#CM优选 | 罗马尼亚 RO |                     <strong>åè´£å£°æ</strong>:443
+                    æ¬ç½ç«çææä¿¡æ¯ä»ä¾åèãæä»¬å°½åç¡®ä¿ä¿¡æ¯çåç¡®æ§åå®æ´æ§ï¼ä½å¯¹äºä¿¡æ¯çåç¡®æ§ãå®æ´æ§ååæ¶æ§ä¸åä»»ä½æç¤ºææç¤ºçä¿è¯æå£°æãç¨æ·éèªè¡æ¿æä½¿ç¨æ¬ç½ç«ä¿¡æ¯çé£é©ãåæ¶ï¼ç¦æ­¢ä½¿ç¨æ¬ç«ä¿¡æ¯è¿è¡ä»»ä½è¿æ³è¿è§æ´»å¨ã:443#CM优选 | 本网站的所有信息仅供参考。我们尽力确保信息的准确性和完整性，但对于信息的准确性、完整性和及时性不做任何明示或暗示的保证或声明。用户需自行承担使用本网站信息的风险。同时，禁止使用本站信息进行任何违法违规活动。 |                     æ¬ç½ç«çææä¿¡æ¯ä»ä¾åèãæä»¬å°½åç¡®ä¿ä¿¡æ¯çåç¡®æ§åå®æ´æ§ï¼ä½å¯¹äºä¿¡æ¯çåç¡®æ§ãå®æ´æ§ååæ¶æ§ä¸åä»»ä½æç¤ºææç¤ºçä¿è¯æå£°æãç¨æ·éèªè¡æ¿æä½¿ç¨æ¬ç½ç«ä¿¡æ¯çé£é©ãåæ¶ï¼ç¦æ­¢ä½¿ç¨æ¬ç«ä¿¡æ¯è¿è¡ä»»ä½è¿æ³è¿è§æ´»å¨ã:443
+        <!-- é¡µé¢ï¼åæµæµè¯ï¼å¯¹é½ ip.skk.moe/split-tunnel çæµè¯é»è¾ä¸æçï¼ -->:443#CM优选 | 意大利 IT |         <!-- é¡µé¢ï¼åæµæµè¯ï¼å¯¹é½ ip.skk.moe/split-tunnel çæµè¯é»è¾ä¸æçï¼ -->:443
+section split-section:443#CM优选 | 英属印度洋领地 IO | section split-section:443
+            <h2 class=:443#CM优选 | 老挝 LA |             <h2 class=:443
+>ç½ç«åæµæµè¯</h2>:443#CM优选 | >网站分流测试</h2> | >ç½ç«åæµæµè¯</h2>:443
+split-table-wrap:443#CM优选 | 意大利 IT | split-table-wrap:443
+                <table class=:443#CM优选 | 老挝 LA |                 <table class=:443
+split-table:443#CM优选 | 意大利 IT | split-table:443
+                    <thead>:443#CM优选 | 泰国 TH |                     <thead>:443
+                        <tr>:443#CM优选 | 土耳其 TR |                         <tr>:443
+                            <th class=:443#CM优选 | 泰国 TH |                             <th class=:443
+split-col-website:443#CM优选 | 意大利 IT | split-col-website:443
+>ç½ç«</th>:443#CM优选 | 泰国 TH | >ç½ç«</th>:443
+split-col-country:443#CM优选 | 意大利 IT | split-col-country:443
+>å½å®¶</th>:443#CM优选 | 泰国 TH | >å½å®¶</th>:443
+split-col-ip:443#CM优选 | 意大利 IT | split-col-ip:443
+>IP</th>:443#CM优选 | 泰国 TH | >IP</th>:443
+split-col-geo:443#CM优选 | 意大利 IT | split-col-geo:443
+>å½å±å°</th>:443#CM优选 | 泰国 TH | >å½å±å°</th>:443
+split-col-asn:443#CM优选 | 美属萨摩亚 AS | split-col-asn:443
+>ASN</th>:443#CM优选 | 泰国 TH | >ASN</th>:443
+                        </tr>:443#CM优选 | 土耳其 TR |                         </tr>:443
+                    </thead>:443#CM优选 | 泰国 TH |                     </thead>:443
+                    <tbody id=:443#CM优选 | 印尼 ID |                     <tbody id=:443
+split-tbody:443#CM优选 | 意大利 IT | split-tbody:443
+                        <!-- è¡ç± JavaScript å¨æçæ -->:443#CM优选 | 美属萨摩亚 AS |                         <!-- è¡ç± JavaScript å¨æçæ -->:443
+                    </tbody>:443#CM优选 | 玻利维亚 BO |                     </tbody>:443
+                </table>:443#CM优选 | 圣巴泰勒米 BL |                 </table>:443
+        <!-- é¡µé¢ï¼APIï¼ä» API åºåï¼ -->:443#CM优选 | <!-- 页面：API（仅 API 区块） --> |         <!-- é¡µé¢ï¼APIï¼ä» API åºåï¼ -->:443
+>ð ä¼éå®æ¹IPçAPI</h2>:443#CM优选 | >🔌 优选官方IP的API</h2> | >ð ä¼éå®æ¹IPçAPI</h2>:443
+>æè¿è¥åçº¿è·¯è¿åå®æ¹ä¼é IP åè¡¨ï¼ç¹å»ãå¤å¶ãè·åå®æ´ API å°åï¼<code>ips</code> åæ°ç¨äºæå®è¿åç IP æ°éã</p>:443#CM优选 | 德国 DE | >æè¿è¥åçº¿è·¯è¿åå®æ¹ä¼é IP åè¡¨ï¼ç¹å»ãå¤å¶ãè·åå®æ´ API å°åï¼<code>ips</code> åæ°ç¨äºæå®è¿åç IP æ°éã</p>:443
+api-section:443#CM优选 | 英属印度洋领地 IO | api-section:443
+                <ul class=:443#CM优选 | 老挝 LA |                 <ul class=:443
+api-list:443#CM优选 | 冰岛 IS | api-list:443
+                    <li class=:443#CM优选 | 老挝 LA |                     <li class=:443
+api-item:443#CM优选 | 意大利 IT | api-item:443
+api-carrier carrier-ct:443#CM优选 | 加拿大 CA | api-carrier carrier-ct:443
+>çµä¿¡</span>:443#CM优选 | 巴拿马 PA | >çµä¿¡</span>:443
+                        <code class=:443#CM优选 | 老挝 LA |                         <code class=:443
+api-url:443#CM优选 | api-url | api-url:443
+>/ct#CM优选 | 德国 DE | >/ct
+api-desc:443#CM优选 | 德国 DE | api-desc:443
+>è¿å 6 ä¸ªçµä¿¡çº¿è·¯ä¼é IP</span>:443#CM优选 | 巴拿马 PA | >è¿å 6 ä¸ªçµä¿¡çº¿è·¯ä¼é IP</span>:443
+                        <button class=:443#CM优选 | 老挝 LA |                         <button class=:443
+copy-btn-sm:443#CM优选 | 不丹 BT | copy-btn-sm:443
+ onclick=:443#CM优选 | 库克群岛 CK |  onclick=:443
+copyDomain(:443#CM优选 | 印度 IN | copyDomain(:443
+/ct#CM优选 | 巴勒斯坦 PS | /ct
+):443#CM优选 | ) | ):443
+å¤å¶çµä¿¡çº¿è·¯ API å°å:443#CM优选 | 复制电信线路 API 地址 | å¤å¶çµä¿¡çº¿è·¯ API å°å:443
+>å¤å¶</button>:443#CM优选 | 汤加 TO | >å¤å¶</button>:443
+api-preview:443#CM优选 | 波多黎各 PR | api-preview:443
+ data-api=:443#CM优选 | 奥地利 AT |  data-api=:443
+api-preview-head:443#CM优选 | 波多黎各 PR | api-preview-head:443
+                                <span class=:443#CM优选 | 老挝 LA |                                 <span class=:443
+api-preview-title:443#CM优选 | 东帝汶 TL | api-preview-title:443
+>ð¡ ååºé¢è§</span>:443#CM优选 | 巴拿马 PA | >ð¡ ååºé¢è§</span>:443
+                                <button class=:443#CM优选 | 老挝 LA |                                 <button class=:443
+api-refresh-btn:443#CM优选 | 不丹 BT | api-refresh-btn:443
+ type=:443#CM优选 | 秘鲁 PE |  type=:443
+å·æ°çµä¿¡æ¥å£ååºé¢è§:443#CM优选 | 刷新电信接口响应预览 | å·æ°çµä¿¡æ¥å£ååºé¢è§:443
+>â» å·æ°</button>:443#CM优选 | 汤加 TO | >â» å·æ°</button>:443
+                            </div>:443#CM优选 | </div> |                             </div>:443
+api-preview-body:443#CM优选 | 波多黎各 PR | api-preview-body:443
+api-preview-loading:443#CM优选 | 印度 IN | api-preview-loading:443
+>å è½½ä¸­â¦</span></div>:443#CM优选 | 巴拿马 PA | >å è½½ä¸­â¦</span></div>:443
+                    </li>:443#CM优选 | 列支敦士登 LI |                     </li>:443
+api-carrier carrier-cu:443#CM优选 | 加拿大 CA | api-carrier carrier-cu:443
+>èé</span>:443#CM优选 | 巴拿马 PA | >èé</span>:443
+>/cu</code>:443#CM优选 | 德国 DE | >/cu</code>:443
+>è¿åèéçº¿è·¯ä¼é IP</span>:443#CM优选 | 巴拿马 PA | >è¿åèéçº¿è·¯ä¼é IP</span>:443
+/cu:443#CM优选 | 古巴 CU | /cu:443
+å¤å¶èéçº¿è·¯ API å°å:443#CM优选 | 复制联通线路 API 地址 | å¤å¶èéçº¿è·¯ API å°å:443
+å·æ°èéæ¥å£ååºé¢è§:443#CM优选 | 刷新联通接口响应预览 | å·æ°èéæ¥å£ååºé¢è§:443
+api-carrier carrier-cmcc:443#CM优选 | 加拿大 CA | api-carrier carrier-cmcc:443
+>ç§»å¨</span>:443#CM优选 | 巴拿马 PA | >ç§»å¨</span>:443
+>/cmcc#CM优选 | 德国 DE | >/cmcc
+>è¿å 8 ä¸ªç§»å¨çº¿è·¯ä¼é IP</span>:443#CM优选 | 巴拿马 PA | >è¿å 8 ä¸ªç§»å¨çº¿è·¯ä¼é IP</span>:443
+/cmcc#CM优选 | 巴勒斯坦 PS | /cmcc
+å¤å¶ç§»å¨çº¿è·¯ API å°å:443#CM优选 | 复制移动线路 API 地址 | å¤å¶ç§»å¨çº¿è·¯ API å°å:443
+å·æ°ç§»å¨æ¥å£ååºé¢è§:443#CM优选 | 刷新移动接口响应预览 | å·æ°ç§»å¨æ¥å£ååºé¢è§:443
+                </ul>:443#CM优选 | </ul> |                 </ul>:443
+                <p class=:443#CM优选 | 老挝 LA |                 <p class=:443
+api-note:443#CM优选 | 挪威 NO | api-note:443
+>ð¡ å°è¿åçä¼é IP å¡«å¥ä»£çéç½®ç <code>address</code>ï¼æ <code>server</code>ï¼å­æ®µï¼ç«¯å£ä¿æ Cloudflare æ¯æç HTTPS ç«¯å£ï¼443ã2053ã2083ã2087ã2096ã8443ï¼å³å¯ã</p>:2053#CM优选 | 老挝 LA | >ð¡ å°è¿åçä¼é IP å¡«å¥ä»£çéç½®ç <code>address</code>ï¼æ <code>server</code>ï¼å­æ®µï¼ç«¯å£ä¿æ Cloudflare æ¯æç HTTPS ç«¯å£ï¼443ã2053ã2083ã2087ã2096ã8443ï¼å³å¯ã</p>:2053
+        <!-- é¡µé¢ï¼æ´å¤èµæº -->:443#CM优选 | <!-- 页面：更多资源 --> |         <!-- é¡µé¢ï¼æ´å¤èµæº -->:443
+resources-section:443#CM优选 | 英属印度洋领地 IO | resources-section:443
+>ð æ´å¤ä¼éåå®¹</h3>:443#CM优选 | >🔗 更多优选内容</h3> | >ð æ´å¤ä¼éåå®¹</h3>:443
+resources-list:443#CM优选 | 西班牙 ES | resources-list:443
+                <a class=:443#CM优选 | 老挝 LA |                 <a class=:443
+resource-link:443#CM优选 | 印度 IN | resource-link:443
+                    rel=:443#CM优选 | 留尼汪 RE |                     rel=:443
+20:443#CM优选 | 20 | 20:443
+                        aria-hidden=:443#CM优选 | 印尼 ID |                         aria-hidden=:443
+M21.21 15.89A10 10 0 1 1 8 2.83:443#CM优选 | M21.21 15.89A10 10 0 1 1 8 2.83 | M21.21 15.89A10 10 0 1 1 8 2.83:443
+M22 12A10 10 0 0 0 12 2v10z:443#CM优选 | M22 12A10 10 0 0 0 12 2v10z | M22 12A10 10 0 0 0 12 2v10z:443
+resource-text:443#CM优选 | 西班牙 ES | resource-text:443
+resource-name:443#CM优选 | 西班牙 ES | resource-name:443
+>vps789.com</span>:443#CM优选 | 巴拿马 PA | >vps789.com</span>:443
+resource-desc:443#CM优选 | 德国 DE | resource-desc:443
+>Cloudflare ä¼é IP å¨çº¿æ£æµä¸å»¶è¿ç»è®¡é¢æ¿</span>:443#CM优选 | 老挝 LA | >Cloudflare ä¼é IP å¨çº¿æ£æµä¸å»¶è¿ç»è®¡é¢æ¿</span>:443
+                    </span>:443#CM优选 | 巴拿马 PA |                     </span>:443
+                </a>:443#CM优选 | </a> |                 </a>:443
+https://ipdb.api.030101.xyz#CM优选 | 特立尼达多巴哥 TT | https://ipdb.api.030101.xyz
+M4 7v10c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V7:443#CM优选 | M4 7v10c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V7 | M4 7v10c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V7:443
+M12 12L4 7:443#CM优选 | M12 12L4 7 | M12 12L4 7:443
+M20 7l-8 5:443#CM优选 | M20 7l-8 5 | M20 7l-8 5:443
+M12 2v10:443#CM优选 | M12 2v10 | M12 2v10:443
+>ipdb.api.030101.xyz</span>:443#CM优选 | 巴拿马 PA | >ipdb.api.030101.xyz</span>:443
+>èå IP æ°æ®åº APIï¼å¯ç¨äºæå IP æ®µæ°æ®</span>:443#CM优选 | 巴拿马 PA | >èå IP æ°æ®åº APIï¼å¯ç¨äºæå IP æ®µæ°æ®</span>:443
+https://www.wetest.vip/page/cloudflare/address_v4.html#CM优选 | 特立尼达多巴哥 TT | https://www.wetest.vip/page/cloudflare/address_v4.html
+M13 2L3 14h9l-1 8 10-12h-9l1-8z:443#CM优选 | M13 2L3 14h9l-1 8 10-12h-9l1-8z | M13 2L3 14h9l-1 8 10-12h-9l1-8z:443
+>wetest.vip</span>:443#CM优选 | 巴拿马 PA | >wetest.vip</span>:443
+>Cloudflare ä¼é IP å¨çº¿æµéå·¥å·</span>:443#CM优选 | 老挝 LA | >Cloudflare ä¼é IP å¨çº¿æµéå·¥å·</span>:443
+https://ip.164746.xyz#CM优选 | 特立尼达多巴哥 TT | https://ip.164746.xyz
+M12 20V10:443#CM优选 | M12 20V10 | M12 20V10:443
+M18 20V4:443#CM优选 | M18 20V4 | M18 20V4:443
+M6 20v-4:443#CM优选 | M6 20v-4 | M6 20v-4:443
+>ip.164746.xyz</span>:443#CM优选 | 巴拿马 PA | >ip.164746.xyz</span>:443
+>Cloudflare ä¼é IP æ±æ»åè¡¨</span>:443#CM优选 | 老挝 LA | >Cloudflare ä¼é IP æ±æ»åè¡¨</span>:443
+    </div>:443#CM优选 | </div> |     </div>:443
+    <script>:443#CM优选 | 葡萄牙 PT |     <script>:443
+        /* è½»éé¡µç­¾è·¯ç±ï¼:443#CM优选 | 中国台湾 TW |         /* è½»éé¡µç­¾è·¯ç±ï¼:443
+           é¡µé¢åæ¢ä»æ§å¶ .page å®¹å¨æ¾éï¼script.js çå¨é¨åè½ä¸ DOM å¥çº¦ä¸åå½±å */:443#CM优选 | 格鲁吉亚 GE |            é¡µé¢åæ¢ä»æ§å¶ .page å®¹å¨æ¾éï¼script.js çå¨é¨åè½ä¸ DOM å¥çº¦ä¸åå½±å */:443
+        (function () {:443#CM优选 | 新喀里多尼亚 NC |         (function () {:443
+            var PAGES = [:443#CM优选 | 西班牙 ES |             var PAGES = [:443
+];:443#CM优选 | ]; | ];:443
+            var pages = document.querySelectorAll(:443#CM优选 | 西班牙 ES |             var pages = document.querySelectorAll(:443
+.page[data-page]:443#CM优选 | 奥地利 AT | .page[data-page]:443
+);:443#CM优选 | ); | );:443
+            var links = document.querySelectorAll(:443#CM优选 | 印度 IN |             var links = document.querySelectorAll(:443
+.nav-link[data-page]:443#CM优选 | 印度 IN | .nav-link[data-page]:443
+            function currentRoute() {:443#CM优选 | 新喀里多尼亚 NC |             function currentRoute() {:443
+                var m = location.hash.match(/^:443#CM优选 | \/([a-z]+)/); |                 var m = location.hash.match(/^:443
+                return (m && PAGES.indexOf(m[1]) !== -1) #CM优选 | 留尼汪 RE |                 return (m && PAGES.indexOf(m[1]) !== -1) 
+;:443#CM优选 | ; | ;:443
+            }:443#CM优选 | } |             }:443
+            function show(route) {:443#CM优选 | 新喀里多尼亚 NC |             function show(route) {:443
+                pages.forEach(function (p) { p.hidden = p.getAttribute(:443#CM优选 | 新喀里多尼亚 NC |                 pages.forEach(function (p) { p.hidden = p.getAttribute(:443
+data-page:443#CM优选 | 奥地利 AT | data-page:443
+) !== route; });:443#CM优选 | 罗马尼亚 RO | ) !== route; });:443
+                links.forEach(function (l) {:443#CM优选 | 新喀里多尼亚 NC |                 links.forEach(function (l) {:443
+                    var active = l.getAttribute(:443#CM优选 | 梵蒂冈 VA |                     var active = l.getAttribute(:443
+) === route;:443#CM优选 | 罗马尼亚 RO | ) === route;:443
+                    l.classList.toggle(:443#CM优选 | l.classList.toggle( |                     l.classList.toggle(:443
+active:443#CM优选 | 委内瑞拉 VE | active:443
+ active);:443#CM优选 | 委内瑞拉 VE |  active);:443
+                    if (active) { l.setAttribute(:443#CM优选 | 委内瑞拉 VE |                     if (active) { l.setAttribute(:443
+aria-current:443#CM优选 | 阿根廷 AR | aria-current:443
+); }:443#CM优选 | ); } | ); }:443
+                    else { l.removeAttribute(:443#CM优选 | 瑞典 SE |                     else { l.removeAttribute(:443
+                });:443#CM优选 | }); |                 });:443
+                window.scrollTo(0:443#CM优选 | window.scrollTo(0 |                 window.scrollTo(0:443
+ 0);:443#CM优选 | 0); |  0);:443
+                if (route === :443#CM优选 | 罗马尼亚 RO |                 if (route === :443
+ && typeof loadApiPreviews === :443#CM优选 | 萨摩亚 WS |  && typeof loadApiPreviews === :443
+function:443#CM优选 | 新喀里多尼亚 NC | function:443
+) { loadApiPreviews(); }:443#CM优选 | 萨摩亚 WS | ) { loadApiPreviews(); }:443
+ && typeof initSplitTunnel === :443#CM优选 | 印度 IN |  && typeof initSplitTunnel === :443
+) { initSplitTunnel(); }:443#CM优选 | 印度 IN | ) { initSplitTunnel(); }:443
+            window.addEventListener(:443#CM优选 | window.addEventListener( |             window.addEventListener(:443
+hashchange:443#CM优选 | 美属萨摩亚 AS | hashchange:443
+ function () { show(currentRoute()); });:443#CM优选 | 新喀里多尼亚 NC |  function () { show(currentRoute()); });:443
+            show(currentRoute());:443#CM优选 | 罗马尼亚 RO |             show(currentRoute());:443
+            /* API ååºé¢è§ï¼æå è½½ï¼é¦æ¬¡åå° API é¡µç­¾æè¯·æ±ï¼ï¼è¯·æ±æ¬ç«ç¸å¯¹è·¯å¾ï¼åæºï¼ï¼:443#CM优选 | /* API 响应预览：懒加载（首次切到 API 页签才请求），请求本站相对路径（同源）； |             /* API ååºé¢è§ï¼æå è½½ï¼é¦æ¬¡åå° API é¡µç­¾æè¯·æ±ï¼ï¼è¯·æ±æ¬ç«ç¸å¯¹è·¯å¾ï¼åæºï¼ï¼:443
+               æ¾ç¤ºä¸å¤å¶çå®æ´å°åç±é¡µé¢å è½½æ¶çè¡¥å¨é»è¾åºäº location.origin çæï¼:443#CM优选 | 显示与复制的完整地址由页面加载时的补全逻辑基于 location.origin 生成； |                æ¾ç¤ºä¸å¤å¶çå®æ´å°åç±é¡µé¢å è½½æ¶çè¡¥å¨é»è¾åºäº location.origin çæï¼:443
+               ååºä¸ºçº¯ææ¬ï¼æ :443#CM优选 | 响应为纯文本，按 |                ååºä¸ºçº¯ææ¬ï¼æ :443
+IP:443#CM优选 | 备注 | IP:443
+ åæ®µçè²ï¼IP å ç² / :443#CM优选 | 主色 / 备注灰色）， |  åæ®µçè²ï¼IP å ç² / :443
+               åæ®µ textContent æ¼æ¥ä¸åæå®å¨ä¸è´ï¼ä¸æ¹å¨ä»»ä½åå®¹ */:443#CM优选 | 哥伦比亚 CO |                åæ®µ textContent æ¼æ¥ä¸åæå®å¨ä¸è´ï¼ä¸æ¹å¨ä»»ä½åå®¹ */:443
+            function renderApiPreview(body:443#CM优选 | 新喀里多尼亚 NC |             function renderApiPreview(body:443
+ text) {:443#CM优选 | text) { |  text) {:443
+                body.textContent = :443#CM优选 | body.textContent = |                 body.textContent = :443
+                var lines = text.split(:443#CM优选 | 印度 IN |                 var lines = text.split(:443
+\n:443#CM优选 | \n | \n:443
+                while (lines.length && lines[lines.length - 1].trim() === :443#CM优选 | 印度 IN |                 while (lines.length && lines[lines.length - 1].trim() === :443
+) { lines.pop(); }:443#CM优选 | ) { lines.pop(); } | ) { lines.pop(); }:443
+                if (!lines.length) {:443#CM优选 | if (!lines.length) { |                 if (!lines.length) {:443
+                    body.textContent = :443#CM优选 | body.textContent = |                     body.textContent = :443
+ï¼æ¥å£è¿åç©ºåå®¹ï¼:443#CM优选 | （接口返回空内容） | ï¼æ¥å£è¿åç©ºåå®¹ï¼:443
+                    return;:443#CM优选 | 留尼汪 RE |                     return;:443
+                }:443#CM优选 | } |                 }:443
+                lines.forEach(function (line) {:443#CM优选 | 印度 IN |                 lines.forEach(function (line) {:443
+                    if (line.trim() === :443#CM优选 | if (line.trim() === |                     if (line.trim() === :443
+) { return; }:443#CM优选 | 留尼汪 RE | ) { return; }:443
+                    var row = document.createElement(:443#CM优选 | 罗马尼亚 RO |                     var row = document.createElement(:443
+div:443#CM优选 | div | div:443
+                    row.className = :443#CM优选 | row.className = |                     row.className = :443
+api-preview-row:443#CM优选 | 波多黎各 PR | api-preview-row:443
+                    var i = line.indexOf(:443#CM优选 | 梵蒂冈 VA |                     var i = line.indexOf(:443
+:443#CM优选 | 无备注 | :443
+                    if (i > -1) {:443#CM优选 | if (i > -1) { |                     if (i > -1) {:443
+                        var ip = document.createElement(:443#CM优选 | 梵蒂冈 VA |                         var ip = document.createElement(:443
+span:443#CM优选 | 巴拿马 PA | span:443
+                        ip.className = :443#CM优选 | ip.className = |                         ip.className = :443
+api-preview-ip:443#CM优选 | 波多黎各 PR | api-preview-ip:443
+                        ip.textContent = line.slice(0:443#CM优选 | ip.textContent = line.slice(0 |                         ip.textContent = line.slice(0:443
+ i);:443#CM优选 | i); |  i);:443
+                        var sep = document.createElement(:443#CM优选 | 瑞典 SE |                         var sep = document.createElement(:443
+                        sep.className = :443#CM优选 | sep.className = |                         sep.className = :443
+api-preview-sep:443#CM优选 | 波多黎各 PR | api-preview-sep:443
+                        sep.textContent = :443#CM优选 | sep.textContent = |                         sep.textContent = :443
+                        var remark = document.createElement(:443#CM优选 | 梵蒂冈 VA |                         var remark = document.createElement(:443
+                        remark.className = :443#CM优选 | remark.className = |                         remark.className = :443
+api-preview-remark:443#CM优选 | 波多黎各 PR | api-preview-remark:443
+                        remark.textContent = line.slice(i + 1);:443#CM优选 | remark.textContent = line.slice(i + 1); |                         remark.textContent = line.slice(i + 1);:443
+                        row.appendChild(ip);:443#CM优选 | row.appendChild(ip); |                         row.appendChild(ip);:443
+                        row.appendChild(sep);:443#CM优选 | 瑞典 SE |                         row.appendChild(sep);:443
+                        row.appendChild(remark);:443#CM优选 | 阿根廷 AR |                         row.appendChild(remark);:443
+                    } else {:443#CM优选 | 瑞典 SE |                     } else {:443
+                        var only = document.createElement(:443#CM优选 | 荷兰 NL |                         var only = document.createElement(:443
+                        only.className = :443#CM优选 | only.className = |                         only.className = :443
+                        only.textContent = line;:443#CM优选 | 印度 IN |                         only.textContent = line;:443
+                        row.appendChild(only);:443#CM优选 | 荷兰 NL |                         row.appendChild(only);:443
+                    }:443#CM优选 | } |                     }:443
+                    body.appendChild(row);:443#CM优选 | 罗马尼亚 RO |                     body.appendChild(row);:443
+            function loadApiPreviews() {:443#CM优选 | 萨摩亚 WS |             function loadApiPreviews() {:443
+                document.querySelectorAll(:443#CM优选 | document.querySelectorAll( |                 document.querySelectorAll(:443
+.api-preview[data-api]:443#CM优选 | 波多黎各 PR | .api-preview[data-api]:443
+).forEach(function (box) {:443#CM优选 | 新喀里多尼亚 NC | ).forEach(function (box) {:443
+                    if (box.getAttribute(:443#CM优选 | if (box.getAttribute( |                     if (box.getAttribute(:443
+data-loaded:443#CM优选 | 德国 DE | data-loaded:443
+) === :443#CM优选 | ) === | ) === :443
+                    box.setAttribute(:443#CM优选 | box.setAttribute( |                     box.setAttribute(:443
+                    var body = box.querySelector(:443#CM优选 | 梵蒂冈 VA |                     var body = box.querySelector(:443
+.api-preview-body:443#CM优选 | 波多黎各 PR | .api-preview-body:443
+                    var btn = box.querySelector(:443#CM优选 | 不丹 BT |                     var btn = box.querySelector(:443
+.api-refresh-btn:443#CM优选 | 不丹 BT | .api-refresh-btn:443
+                    body.innerHTML = :443#CM优选 | body.innerHTML = |                     body.innerHTML = :443
+<span class=:443#CM优选 | 老挝 LA | <span class=:443
+>å è½½ä¸­â¦</span>:443#CM优选 | 巴拿马 PA | >å è½½ä¸­â¦</span>:443
+                    body.classList.remove(:443#CM优选 | body.classList.remove( |                     body.classList.remove(:443
+api-preview-error:443#CM优选 | 波多黎各 PR | api-preview-error:443
+                    if (btn) { btn.disabled = true; }:443#CM优选 | 不丹 BT |                     if (btn) { btn.disabled = true; }:443
+                    var finish = function () { if (btn) { btn.disabled = false; } };:443#CM优选 | 印度 IN |                     var finish = function () { if (btn) { btn.disabled = false; } };:443
+                    var ctrl = (:443#CM优选 | 土耳其 TR |                     var ctrl = (:443
+AbortController:443#CM优选 | 罗马尼亚 RO | AbortController:443
+ in window) #CM优选 | 印度 IN |  in window) 
+                    var timer = ctrl #CM优选 | 新喀里多尼亚 NC |                     var timer = ctrl 
+ 10000) : null;#CM优选 | 10000) |  10000) : null;
+                    fetch(box.getAttribute(:443#CM优选 | 瑞士 CH |                     fetch(box.getAttribute(:443
+data-api:443#CM优选 | 奥地利 AT | data-api:443
+ ctrl #CM优选 | 土耳其 TR |  ctrl 
+                        .then(function (r) {:443#CM优选 | 泰国 TH |                         .then(function (r) {:443
+                            if (!r.ok) { throw new Error(:443#CM优选 | 泰国 TH |                             if (!r.ok) { throw new Error(:443
+HTTP :443#CM优选 | 特立尼达多巴哥 TT | HTTP :443
+ + r.status); }:443#CM优选 | + r.status); } |  + r.status); }:443
+                            return r.text();:443#CM优选 | 留尼汪 RE |                             return r.text();:443
+                        }):443#CM优选 | }) |                         }):443
+                        .then(function (text) { renderApiPreview(body:443#CM优选 | 泰国 TH |                         .then(function (text) { renderApiPreview(body:443
+ text); }):443#CM优选 | text); }) |  text); }):443
+                        .catch(function (err) {:443#CM优选 | 新喀里多尼亚 NC |                         .catch(function (err) {:443
+                            var why = (err && err.name === :443#CM优选 | 梵蒂冈 VA |                             var why = (err && err.name === :443
+AbortError:443#CM优选 | 罗马尼亚 RO | AbortError:443
+) #CM优选 | ) ? | ) 
+è¯·æ±è¶æ¶:443#CM优选 | 请求超时 | è¯·æ±è¶æ¶:443
+                                : (err && err.message) #CM优选 | 无备注 |                                 : (err && err.message) 
+ç½ç»éè¯¯:443#CM优选 | 网络错误 | ç½ç»éè¯¯:443
+                            body.textContent = :443#CM优选 | body.textContent = |                             body.textContent = :443
+â ï¸ é¢è§è·åå¤±è´¥ï¼:443#CM优选 | ⚠️ 预览获取失败： | â ï¸ é¢è§è·åå¤±è´¥ï¼:443
+ + why + :443#CM优选 | + why + |  + why + :443
+ï¼ç¹å»ãå·æ°ãéè¯ï¼:443#CM优选 | （点击「刷新」重试） | ï¼ç¹å»ãå·æ°ãéè¯ï¼:443
+                            body.classList.add(:443#CM优选 | body.classList.add( |                             body.classList.add(:443
+                        .then(finish:443#CM优选 | 泰国 TH |                         .then(finish:443
+ finish);:443#CM优选 | 印度 IN |  finish);:443
+            document.querySelectorAll(:443#CM优选 | document.querySelectorAll( |             document.querySelectorAll(:443
+.api-preview .api-refresh-btn:443#CM优选 | 不丹 BT | .api-preview .api-refresh-btn:443
+).forEach(function (btn) {:443#CM优选 | 不丹 BT | ).forEach(function (btn) {:443
+                btn.addEventListener(:443#CM优选 | btn.addEventListener( |                 btn.addEventListener(:443
+click:443#CM优选 | 库克群岛 CK | click:443
+ function () {:443#CM优选 | 新喀里多尼亚 NC |  function () {:443
+                    var box = btn.closest(:443#CM优选 | 梵蒂冈 VA |                     var box = btn.closest(:443
+.api-preview:443#CM优选 | 波多黎各 PR | .api-preview:443
+                    if (box) {:443#CM优选 | 玻利维亚 BO |                     if (box) {:443
+                        box.removeAttribute(:443#CM优选 | box.removeAttribute( |                         box.removeAttribute(:443
+                        loadApiPreviews();:443#CM优选 | 萨摩亚 WS |                         loadApiPreviews();:443
+            });:443#CM优选 | }); |             });:443
+            /* API å°åè¡¥å¨ï¼é¡µé¢å è½½æ¶åºäºå½åè®¿é®ååï¼location.originï¼æç¸å¯¹è·¯å¾è¡¥å¨ä¸º:443#CM优选 | /* API 地址补全：页面加载时基于当前访问域名（location.origin）把相对路径补全为 |             /* API å°åè¡¥å¨ï¼é¡µé¢å è½½æ¶åºäºå½åè®¿é®ååï¼location.originï¼æç¸å¯¹è·¯å¾è¡¥å¨ä¸º:443
+               å®æ´ URLï¼ç¨äºæ¾ç¤ºä¸å¤å¶ï¼data-api ä¿æç¸å¯¹è·¯å¾ä¸åï¼åæº fetch ç­ä»·ï¼ã:443#CM优选 | 瑞士 CH |                å®æ´ URLï¼ç¨äºæ¾ç¤ºä¸å¤å¶ï¼data-api ä¿æç¸å¯¹è·¯å¾ä¸åï¼åæº fetch ç­ä»·ï¼ã:443
+               æ³¨æï¼æ¬èæ¬å¨ script.js ä¹åæ§è¡ï¼copyDomain å°æªå®ä¹ï¼æåªè½å»¶è¿å°ç¹å»æ¶è°ç¨ */:443#CM优选 | 印度 IN |                æ³¨æï¼æ¬èæ¬å¨ script.js ä¹åæ§è¡ï¼copyDomain å°æªå®ä¹ï¼æåªè½å»¶è¿å°ç¹å»æ¶è°ç¨ */:443
+            if (location.protocol !== :443#CM优选 | if (location.protocol !== |             if (location.protocol !== :443
+file:#CM优选 | 芬兰 FI | file:
+) {:443#CM优选 | ) { | ) {:443
+.api-item:443#CM优选 | 意大利 IT | .api-item:443
+).forEach(function (item) {:443#CM优选 | 新喀里多尼亚 NC | ).forEach(function (item) {:443
+                    var preview = item.querySelector(:443#CM优选 | 波多黎各 PR |                     var preview = item.querySelector(:443
+                    if (!preview) { return; }:443#CM优选 | 波多黎各 PR |                     if (!preview) { return; }:443
+                    var path = preview.getAttribute(:443#CM优选 | 泰国 TH |                     var path = preview.getAttribute(:443
+                    var abs;:443#CM优选 | 梵蒂冈 VA |                     var abs;:443
+                    try {:443#CM优选 | 土耳其 TR |                     try {:443
+                        abs = new URL(path:443#CM优选 | 泰国 TH |                         abs = new URL(path:443
+ location.origin).href;:443#CM优选 | 克罗地亚 HR |  location.origin).href;:443
+                    } catch (err) {:443#CM优选 | 加拿大 CA |                     } catch (err) {:443
+                        return; // file:// æ è®¿é®ååï¼Chrome ä¸ origin ä¸º #CM优选 | 芬兰 FI |                         return; // file:// æ è®¿é®ååï¼Chrome ä¸ origin ä¸º 
+file://#CM优选 | 芬兰 FI | file://
+ï¼æå¶å®å¼å¸¸ origin æ¶ï¼ç´æ¥è·³è¿è¡¥å¨ï¼ä¿ç HTML ä¸­çç¸å¯¹è·¯å¾ä½ä¸ºéçº§:443#CM优选 | 印度 IN | ï¼æå¶å®å¼å¸¸ origin æ¶ï¼ç´æ¥è·³è¿è¡¥å¨ï¼ä¿ç HTML ä¸­çç¸å¯¹è·¯å¾ä½ä¸ºéçº§:443
+                    var code = item.querySelector(:443#CM优选 | 德国 DE |                     var code = item.querySelector(:443
+.api-url:443#CM优选 | .api-url | .api-url:443
+                    if (code) { code.textContent = abs; }:443#CM优选 | 德国 DE |                     if (code) { code.textContent = abs; }:443
+                    var copyBtn = item.querySelector(:443#CM优选 | 不丹 BT |                     var copyBtn = item.querySelector(:443
+.copy-btn-sm:443#CM优选 | 不丹 BT | .copy-btn-sm:443
+                    if (copyBtn) {:443#CM优选 | 不丹 BT |                     if (copyBtn) {:443
+                        copyBtn.removeAttribute(:443#CM优选 | copyBtn.removeAttribute( |                         copyBtn.removeAttribute(:443
+onclick:443#CM优选 | 库克群岛 CK | onclick:443
+                        copyBtn.addEventListener(:443#CM优选 | copyBtn.addEventListener( |                         copyBtn.addEventListener(:443
+ function () { copyDomain(abs); });:443#CM优选 | 印度 IN |  function () { copyDomain(abs); });:443
+        })();:443#CM优选 | })(); |         })();:443
+    </script>:443#CM优选 | 葡萄牙 PT |     </script>:443
+footer:443#CM优选 | 法罗群岛 FO | footer:443
+        <p>Â© 2025 - 2026 CloudFlareä¼éååæ±æ» :443#CM优选 | 老挝 LA |         <p>Â© 2025 - 2026 CloudFlareä¼éååæ±æ» :443
+ ä»æ¥è®¿é®äººæ°: <span id=#CM优选 | 今日访问人数 |  ä»æ¥è®¿é®äººæ°: <span id=
+visit-count:443#CM优选 | 意大利 IT | visit-count:443
+>Â·Â·Â·</span> :443#CM优选 | 巴拿马 PA | >Â·Â·Â·</span> :443
+ æ¬ç«åå®¹ä»ä¾åèï¼æä¾ç»´æ¤: <a#CM优选 | 本站内容仅供参考，提供维护 |  æ¬ç«åå®¹ä»ä¾åèï¼æä¾ç»´æ¤: <a
+                href=:443#CM优选 | 克罗地亚 HR |                 href=:443
+        <p class=:443#CM优选 | 老挝 LA |         <p class=:443
+footer-note:443#CM优选 | 挪威 NO | footer-note:443
+>Cloudflare å¨ä¸­å½å¤§éææ è¾¹ç¼ CDN èç¹ãæä»¥æ¬ç«æ±æ»ä¼éååãè½å° IP ä¸å»¶è¿æµè¯æ°æ®ï¼ä»ä¾åèä¸å­¦ä¹ ï¼ä½¿ç¨è¯·éµå®å½å°æ³å¾æ³è§å¹¶èªè¡æ¿æé£é©ã</p>:443#CM优选 | 老挝 LA | >Cloudflare å¨ä¸­å½å¤§éææ è¾¹ç¼ CDN èç¹ãæä»¥æ¬ç«æ±æ»ä¼éååãè½å° IP ä¸å»¶è¿æµè¯æ°æ®ï¼ä»ä¾åèä¸å­¦ä¹ ï¼ä½¿ç¨è¯·éµå®å½å°æ³å¾æ³è§å¹¶èªè¡æ¿æé£é©ã</p>:443
+    <script src=:443#CM优选 | 葡萄牙 PT |     <script src=:443
+script.js:443#CM优选 | script.js | script.js:443
+></script>:443#CM优选 | 葡萄牙 PT | ></script>:443
+</body>:443#CM优选 | 玻利维亚 BO | </body>:443
+</html>:443#CM优选 | 土库曼斯坦 TM | </html>:443
+172.66.0.172:443#CM优选 | CF 电信优选 | 172.66.0.172:443
+172.66.0.118:443#CM优选 | CF 电信优选 | 172.66.0.118:443
+172.66.1.250:443#CM优选 | CF 电信优选 | 172.66.1.250:443
+188.164.248.18:443#CM优选 | CF 电信优选 | 188.164.248.18:443
+188.164.248.143:443#CM优选 | CF 电信优选 | 188.164.248.143:443
+104.17.145.145:443#CM优选 | CF 电信优选 | 104.17.145.145:443
+104.17.22.231:443#CM优选 | CF 移动优选 | 104.17.22.231:443
+104.17.125.98:443#CM优选 | CF 移动优选 | 104.17.125.98:443
+104.16.240.177:443#CM优选 | CF 移动优选 | 104.16.240.177:443
+104.19.34.37:443#CM优选 | CF 移动优选 | 104.19.34.37:443
+104.17.187.57:443#CM优选 | CF 移动优选 | 104.17.187.57:443
+104.19.149.171:443#CM优选 | CF 移动优选 | 104.19.149.171:443
+104.17.145.43:443#CM优选 | CF 移动优选 | 104.17.145.43:443
+104.18.33.121:443#CM优选 | CF 移动优选 | 104.18.33.121:443
+104.18.33.121:443#CM优选 | 分享免费优选网 bestcf.tools12345.com
