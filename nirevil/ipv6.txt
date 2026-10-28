@@ -1,7 +1,7 @@
-162.159.198.1:443#NiREvil优选IPv6 | 10-27 23:01 | bestcf.tools12345.com
-[2803:f800:7c69:10c5:5bf0:d721:fca8:3b53]:443#NiREvil优选 | CF | Default | 0ms | 0mbps
-[2c0f:f248:7917:233e:db85:2ba0:457c:f5b2]:443#NiREvil优选 | CF | Default | 0ms | 0mbps
-[2405:8100:6dbc:4e0c:8851:1f65:cdfa:3a97]:443#NiREvil优选 | CF | Default | 0ms | 0mbps
-[2606:4700:fd8:9f9:c428:ac3d:cef0:7a21]:443#NiREvil优选 | CF | Default | 0ms | 0mbps
-[2a06:98c6:de81:d68e:c60b:4c0c:bb6f:22d2]:443#NiREvil优选 | CF | Default | 0ms | 0mbps
+162.159.198.1:443#NiREvil优选IPv6 | 10-28 23:31 | bestcf.tools12345.com
+[2803:f800:77e4:f1a8:4a70:c22f:b394:ee7b]:443#NiREvil优选 | CF | Default | 0ms | 0mbps
+[2405:8100:a6d6:16f7:d550:ee3:6dda:309d]:443#NiREvil优选 | CF | Default | 0ms | 0mbps
+[2405:8100:b445:5549:ec71:ed5:9f4:2dd5]:443#NiREvil优选 | CF | Default | 0ms | 0mbps
+[2405:b500:2617:c41:ca7d:eed8:5872:f562]:443#NiREvil优选 | CF | Default | 0ms | 0mbps
+[2405:8100:e103:d566:53d4:bad9:3381:2442]:443#NiREvil优选 | CF | Default | 0ms | 0mbps
 162.159.197.1:443#NiREvil优选IPv6 | 分享免费优选网 bestcf.tools12345.com
