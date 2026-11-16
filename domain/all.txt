@@ -15,6 +15,7 @@ nexusmods.com:443#企业域名 | NexusMods
 glassdoor.com:443#企业域名 | Glassdoor
 www.jimdo.com:443#企业域名 | Jimdo
 openai.com:443#企业域名 | OpenAI
+jobsdb.com:443#企业域名 | JobsDB
 www.sage.com:443#更多选择 | Sage
 www.speedtest.net:443#更多选择 | Ookla
 investor.apple.com:443#更多选择 | Apple
@@ -80,4 +81,4 @@ cu.877774.xyz:443#按运营商 | 联通QMS
 cu.cloudflare.byoip.top:443#按运营商 | 联通Byoip
 cmcc.877774.xyz:443#按运营商 | 移动QMS
 cm.cloudflare.byoip.top:443#按运营商 | 移动Byoip
-162.159.197.1:8443#优选域名 | 8-28 | 分享免费优选网bestcf.tools12345.com
+162.159.197.1:8443#优选域名 | 11-15 | 分享免费优选网bestcf.tools12345.com
